@@ -1,3 +1,3 @@
 # My Launcher
 
-> This my googles extension.
+> This my google extension.
